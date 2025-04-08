@@ -7,4 +7,4 @@ A Lei de Benford-Newcomb afirma que, em muitos conjuntos de números, o primeiro
 - Detecção de fraudes financeiras
 - Análise de dados em ciências naturais
 - Estudo de padrões numéricos em bancos de dados reais
-![BENFORD](https://www.google.com/url?sa=i&url=https%3A%2F%2Fanpmat.org.br%2Fdesafio-2&psig=AOvVaw2rd_WqG8uz3NKHz3smrcVc&ust=1744157496231000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCMj48JGTx4wDFQAAAAAdAAAAABAE)
+![BENFORD](https://anpmat.org.br/wp-content/uploads/2023/09/lei-de-benford-1024x655.jpeg)
